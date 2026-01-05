@@ -37,7 +37,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent">
-              MK
+               <img src="/mohdkaif-portfolio/vecteezy_vibrant-classic-creative-director-with-team-and-mood-board_57554720.png" alt="" />
             </div>
 
             <div className="hidden md:flex space-x-8">
